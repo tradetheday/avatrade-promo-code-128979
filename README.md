@@ -93,12 +93,12 @@ Deposit $2,000 for the best balance of bonus percentage (20%) and absolute bonus
 ## Why This Code
 
 Other codes you will find online:
-- 217092 -- from a podcast ad, no verification
-- 192338 -- from a forum thread, no verification
-- 221319 -- from a newsletter, no verification
+- 217092 from a podcast ad, no verification
+- 192338 from a forum thread, no verification
+- 221319 from a newsletter, no verification
 
 This code:
-- 128979 -- tested with $500, $2,000, and $5,000 real deposits. All verified.
+- 128979 tested with $500, $2,000, and $5,000 real deposits. All verified.
 
 When you search for an AvaTrade promo code, you will find dozens. Most are numbers with no proof behind them. Code 128979 was tested with real money on a live account and documented with timestamps.
 
